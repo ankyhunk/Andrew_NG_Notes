@@ -1,5 +1,13 @@
 # Andrew NG Notes Collection
 
+> **About this copy**
+> This repository is a copy of [ashishpatel26/Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes), with these updates:
+> - The nine **Machine Learning** exercise notebooks (`Machine Learning notebooks By Andrew NG/ex1`–`ex8`) were converted from Python 2 to Python 3 and updated for current NumPy, SciPy, Matplotlib and scikit-learn. They now run from start to finish and give the results the exercises expect.
+> - ex4 now reads its data from `ex3/data`, because its own `data/` files were broken symlinks.
+> - The **Deep Learning** notebooks are unchanged: they need TensorFlow 1.x and the course's helper files, which are not included.
+>
+> To run an ML exercise: `pip install numpy scipy pandas matplotlib pillow scikit-learn nltk stemming`, then open the notebook from its own folder so the relative `data/` paths work.
+
 **This is the first course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.**
 
 **<Span style="color:red;">Andrew NG Machine Learning Notebooks  :</span>**  [**Reading**](https://github.com/ashishpatel26/Andrew-NG-Notes/tree/master/Machine%20Learning%20notebooks%20By%20Andrew%20NG)   
